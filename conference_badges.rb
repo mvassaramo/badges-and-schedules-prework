@@ -11,4 +11,8 @@ badges
 end
 
 def assign_rooms(attendees)
+  room_assignments = [ ]
+  
+  attendees.each {|i| room_assignments << 
+  
 end
