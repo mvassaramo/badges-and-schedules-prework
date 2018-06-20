@@ -2,7 +2,10 @@ def badge_maker(name)
    "Hello, my name is #{name}."
 end
 
-def batch_badge_creator(name)
+def batch_badge_creator(attendees)
+  badges = [ ]
   loop do 
-    
+  "Hello, my name is #{attendees}."
+  badges.push(attendees)
+end
 end
