@@ -8,4 +8,3 @@ attendees.each { |i| badges << "Hello, my name is #{attendees}."}
 
 badges 
 end
-end
