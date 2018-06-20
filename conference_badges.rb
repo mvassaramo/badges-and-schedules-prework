@@ -4,8 +4,10 @@ end
 
 def batch_badge_creator(attendees)
   badges = [ ]
-  loop do 
-  "Hello, my name is #{attendees}."
+attendees.each 
+
+
+"Hello, my name is #{attendees}."
   badges.push(attendees)
 end
 end
