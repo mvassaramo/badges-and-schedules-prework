@@ -9,3 +9,6 @@ attendees.each { |i| badges << "Hello, my name is #{i}."}
 
 badges 
 end
+
+def assign_rooms
+end
